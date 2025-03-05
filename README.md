@@ -3,11 +3,16 @@
 Create a small sample of any huggingface dataset for testing and push it to your profile.
 
 - [Usage instructions](#usage-instructions)
+    - [Pull the repo](#pull-the-repo)
     - [Keep your credentials safe](#keep-your-credentials-safe-in-a-env-file)
     - [Install the requirements](#install-requirements)
     - [Run the script](#how-to-run-the-script)
 
 # Usage instructions
+
+## Pull the repo
+
+First pull this repo.
 
 ## Keep your credentials safe in a `.env` file
 
