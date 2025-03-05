@@ -1,6 +1,6 @@
 # hf-dataset-sampler
 
-Create a small sample of any huggingface dataset for testing and push it to your profile.
+Create a small sample of any huggingface dataset for testing and push it to your profile.  A [simple example of a small sample]((https://huggingface.co/datasets/neonwatty/imdb-sample-250)) of a common dataset created using the script in this repo.
 
 - [Usage instructions](#usage-instructions)
     - [Pull the repo](#pull-the-repo)
