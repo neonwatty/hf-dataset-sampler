@@ -1,0 +1,6 @@
+torch
+datasets
+transformers
+pre-commit
+huggingface_hub
+python-dotenv
